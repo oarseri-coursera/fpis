@@ -1,2 +1,2 @@
 # fpis
-Exercises from _Funcitonal Programming in Scala _
+Exercises from _Functional Programming in Scala_.
